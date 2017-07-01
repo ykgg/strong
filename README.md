@@ -1,2 +1,4 @@
-# -
-Do One Thing and Do It Well。
+# -学习笔记
+
+Do One Thing and Do It Well.
+
